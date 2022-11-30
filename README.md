@@ -1,3 +1,3 @@
-# Awesome Links - part-1
+# Trello Clone - Node ,GraphQL ,Prisma ,Typescript
 
-This branch has the same starting point as [this article](https://prisma.io/blog/fullstack-nextjs-graphql-prisma-oklidw1rhw)
+this is a trello clone project.
