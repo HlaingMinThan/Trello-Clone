@@ -13,7 +13,7 @@ export default function List({ list }) {
                     <Task task={task} />
                 )
             })}
-            <div className="mt-2 ml-2 text-grey-dark">Add a card...</div>
+            <div className="mt-2 ml-2 text-grey-dark">Add a task...</div>
         </div>
     )
 }
